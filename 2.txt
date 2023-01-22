@@ -1,3 +1,4 @@
+First sentence changed.
 This is the second file.
 Another sentence added.
 
